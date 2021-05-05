@@ -1,0 +1,17 @@
+.divedit {
+    background-color: rgba(52, 73, 94, 0.4);
+    color: #fff;
+    text-align: justify;
+    width: auto;
+    margin: 10px;
+    a
+}
+
+
+
+.bd {
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+
+}
